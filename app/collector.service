@@ -1,0 +1,11 @@
+[Unit]
+Description=Collector Bot v0.1
+
+[Service]
+WorkingDirectory=/home/sysadmin/collector-bot/app
+ExecStart=/usr/bin/python3 /home/sysadmin/collector-bot/app/main.py
+Type=simple
+User=root
+
+[Install]
+WantedBy=multi-user.target
