@@ -10,7 +10,7 @@
 
 <p align="center">Проект созданный для парсинга пользователей из Ваших групп в telegram</p>
 
-<hr align="center" width="500" size="1" color="#ff0000" />
+<hr align="center"/>
 
 <p align="center">
 	<img src="https://img.shields.io/pypi/pyversions/apache-airflow.svg">
