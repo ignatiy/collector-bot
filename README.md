@@ -10,16 +10,14 @@
 
 <p align="center">Проект созданный для парсинга пользователей из Ваших групп в telegram</p>
 
+<hr align="center" width="500" size="1" color="#ff0000" />
+
 <p align="center">
 	<img src="https://img.shields.io/pypi/pyversions/apache-airflow.svg">
 </p>
 
 
-<!-- collector-bot	[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/apache-airflow.svg)](https://pypi.org/project/apache-airflow/)
-=================================================================================================================================================================================
-**collector-bot** – проект созданный для парсинга пользователей из Ваших групп в telegram -->
-
-Что умеет:
+**Что умеет:**
 - [x] Хранить список пользователей вступивших и вышедших из групп(ы) в базе данных SQLite.
 - [x] Формирование и выгрузка списка пользователей в csv файл по всем группам или по отдельности. 
 - [x] Проверка на админа.
