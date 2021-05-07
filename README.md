@@ -1,2 +1,3 @@
-# collector-bot
-Bot for parsing users in telegram groups
+collector-bot[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+=================================================================================================================================================================================
+**collector-bot** – проект созданный для парсинга пользователей из Ваших групп в telegram
